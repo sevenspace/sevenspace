@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231" width="100"/>
+  <img src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231.gif" width="100"/>
 </div>
 ### Hi there 👋
 
