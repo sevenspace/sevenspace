@@ -21,15 +21,15 @@
 
 <div>
 
-- ⭐ My name is Sammi and I am a recent Computer Science graduate
+- ⭐ My name is Sammi and I am a Network Technical Specialist 
 
 - 📍 Based in London
 
-- 🍷 Current working part time at a wine bar, whilst looking for oppotunities in tech
+- 🍷 Current working at Three UK
 
 - 📑 My fields of interest are in data science, machine learning and natural language processing 
 
-- 🔍 Currently interested in looking at opportunities in data science
+- 🔍 Interested in expanding my network and knowledge in data science 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammi-pang-204950197/)
 </div>
