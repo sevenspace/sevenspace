@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
-  <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" title="databricks" **alt="databricks" width="70" height="70"/>
+  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1bfwsmEH20zzEfSNTed" title="databricks" **alt="databricks" width="60" height="60"/>
 </div>
 
 
