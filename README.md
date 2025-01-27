@@ -21,9 +21,10 @@
 
 <div>
 
-- ⭐ My name is Sammi and I am a Network Technical Specialist 
-
-- 📍 Based in London
+- ⭐ My name is Sammi and I am a Network Technical Specialist, I currently am working on data engineering projects, involving the use of Microsoft Fabric tools, like Azure lakehouse, pipelines, dataflows and notebooks.
+     I like to work in Python using a mix of pandas libraries and numPy and mostly use it to help migrate legacy data as well as automating reports/data we use at work.
+  
+- 📍 I am based in London
 
 - 🍷 Current working at Three UK
 
