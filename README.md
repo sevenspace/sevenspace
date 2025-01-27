@@ -22,7 +22,7 @@
 <div>
   
 - ⭐ My name is Sammi and I am a Network Technical Specialist, I currently am working on data engineering projects, involving the use of Microsoft Fabric tools, like Azure lakehouse, pipelines, dataflows and notebooks.
-    I like to work in Python using a mix of pandas libraries and numPy and mostly use it to help migrate legacy data as well as automating reports/data we use at work.
+    I like to work in Python using a mix of pandas libraries and numPy and mostly use it to help migrate legacy data as well as automating reports/data we use at work. I have also done some databricks training and have a little experience on this platform.
   
 - 📍 I am based in London
 
@@ -47,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
 </div>
 
 
