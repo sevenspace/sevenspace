@@ -21,16 +21,14 @@
 
 <div>
   
-- ⭐ My name is Sammi and I am a Network Technical Specialist, I currently am working on data engineering projects, involving the use of Microsoft Fabric tools, like Azure lakehouse, pipelines, dataflows and notebooks.
+- ⭐ My name is Sammi and I am a Data Engineer, I currently am working on data engineering projects, involving the use of Databricks, Azure logic apps and blob storage, as well as migration of a legacy database.
     I like to work in Python using a mix of pandas libraries and numPy and mostly use it to help migrate legacy data as well as automating reports/data we use at work. I have also done some databricks training and have a little experience on this platform.
   
 - 📍 I am based in London
 
-- 🍷 Current working at Three UK
+- 🍷 Current working at VodafoneThree
 
-- 📑 My fields of interest are in data science, machine learning and natural language processing 
-
-- 🔍 Interested in expanding my network and knowledge in data science 
+- 🔍 Interested in expanding my network and knowledge in data engineering
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammi-pang-204950197/)
 </div>
